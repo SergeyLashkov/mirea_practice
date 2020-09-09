@@ -8,5 +8,14 @@ public class Java {
         d1.intoHumanAge();
         d2.setAge(4);
         d2.intoHumanAge();
+        Ball b1 = new Ball();
+        b1.setRadius(13);
+        b1.setColor("Red");
+        b1.setName("Sharik");
+        Book BK = new Book();
+        BK.setAuthor("Tolstoy");
+        BK.setName("War and Peace");
+        BK.setPages(13152352);
+        BK.getBookInfo();
     }
 }
