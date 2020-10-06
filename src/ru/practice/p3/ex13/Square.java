@@ -1,9 +1,6 @@
 package ru.practice.p3.ex13;
 
 public class Square extends Rectangle {
-    // В задании не сказано, что должно быть свойство side
-    // поэтому в качестве данного свойства используется
-    // свойство width из наследуемого класса Rectangle
 
     public Square() { }
 

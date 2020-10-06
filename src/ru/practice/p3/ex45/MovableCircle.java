@@ -13,7 +13,6 @@ public class MovableCircle implements Movable{
     public void moveUp() {
         center.moveUp();
     }
-
     @Override
     public void moveDown() {
         center.moveDown();
